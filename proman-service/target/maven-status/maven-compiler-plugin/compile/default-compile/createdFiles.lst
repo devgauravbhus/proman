@@ -1,0 +1,5 @@
+com\upgrad\proman\service\type\UserStatus.class
+com\upgrad\proman\service\entity\RoleEntity.class
+com\upgrad\proman\service\ServiceConfiguration.class
+com\upgrad\proman\service\entity\UserAuthTokenEntity.class
+com\upgrad\proman\service\entity\UserEntity.class
